@@ -1,7 +1,7 @@
 <div id="header">
 	<h1><big>S</big>ian <big>C</big>ao</h1>
 	<h3>yinshuiboy (at) gmail (dot) com</h3>
-	<h3>15801412878</h3>
+	<h3><a href="http://sonald.github.com">homepage</a></h3>
 </div>
 
 ## Experience
@@ -10,11 +10,11 @@
 
 * Red Flag Desktop 6, 7, and 8 system development and maintainment
 * System management tools for Desktop, i.e display settings, power management, network management
-* Participate in the KDE development, got kde svn/git account, have commits to kdelibs, kdebase and phonon projects.
+* Participating in the KDE development, got kde svn/git account, have commits to kdelibs, kdebase and phonon projects.
 * Bug fixes for KDE4 components, Plasma, 
-* research project for improving konqueror by providing more plugins (partially finished)
-* embedding Gecko(firefox rendering engine) into konqueror (partially finished)
-* build project management website for internal usage
+* Research project for improving konqueror by providing more plugins (partially finished)
+* Embedding Gecko(firefox rendering engine) into konqueror (partially finished)
+* Building project management website for internal usage
 * Designing and building simple realtime web app framework for desktop system
 
 ## Projects
@@ -88,10 +88,10 @@
     <h3> 
         Wuhan University, Computerter Science and Technology, <small>2001 - 2005</small>
     </h3>
-	<p>Bachelor in Computer Science</p>
+	<p>B.S. in Computer Science</p>
 </div>
 
 ## Hobbies
-* focus on open source projects like tmux, zsh, emacs, qemacs, KDE4 etc 
-* linux hobbyist
+* Focus on open source projects like tmux, zsh, emacs, qemacs, KDE4, nodejs etc 
+* Linux hobbyist
 
