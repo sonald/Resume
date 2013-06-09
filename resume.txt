@@ -1,41 +1,41 @@
 <div id="header">
 	<h1><big>S</big>ian <big>C</big>ao</h1>
 	<h3>yinshuiboy (at) gmail (dot) com</h3>
-	<h3><a href="http://sonald.github.com">homepage</a></h3>
+	<h3>tel: 15801412878</h3>
+	<h3>homepage: http://sonald.me</h3>
 </div>
 
 ## Experience
 
-### Red Flag Linux Co. Ltd, <small>Software Developer, Junior Manager, 2007 - Present</small>
+### Red Flag Linux Co. Ltd, <small>Senior Software Developer, Junior Manager, 2007 - Present</small>
 
 * Red Flag Desktop 6, 7, and 8 system development and maintainment
 * System management tools for Desktop, i.e display settings, power management, network management
-* Participating in the KDE development, got kde svn/git account, have commits to kdelibs, kdebase and phonon projects.
+* Participate in the KDE development, got kde svn/git account, have commits into kdelibs, kdebase and phonon projects.
 * Bug fixes for KDE4 components, Plasma, 
-* Research project for improving konqueror by providing more plugins (partially finished)
-* Embedding Gecko(firefox rendering engine) into konqueror (partially finished)
-* Building project management website for internal usage
+* research project for improving konqueror by providing more plugins (partially finished)
+* embedding Gecko(firefox rendering engine) into konqueror (partially finished)
+* build project management website for internal usage
 * Designing and building simple realtime web app framework for desktop system
+* Nodejs powered installer for Qomo and Linux Desktop
+* web-based software center backend
 
-## Projects
+## Personal Projects
 
 <div id="skills" class="sidebar clearfix">
 	<h3>Languages(frameworks)</h3>
 	<ol dir>
-		<li>Ruby <em>+ Rails</em></li>
-        <li>Nodejs <em>+ Express(connect)</em></li>
-        <li>JQuery</li>
-		<li>
-			<p>Python</p>
-			<p>C++</p>
-			<p>Javascript</p>
-		</li>
+        <li>Nodejs</li>
+		<li>Python</li>
+    	<li>C++</li>
+		<li>Javascript</li>
+		<li>Objective C</li>			
 	</ol>
 	
 	<h3>development env</h3>
 	<ul dir>
 		<li>git</li>
-		<li>bash/zsh</li>
+		<li>zsh</li>
 		<li>tmux</li>
 		<li>mosh</li>
 		<li>vim/emacs</li>
@@ -88,10 +88,10 @@
     <h3> 
         Wuhan University, Computerter Science and Technology, <small>2001 - 2005</small>
     </h3>
-	<p>B.S. in Computer Science</p>
+	<p>Bachelor in Computer Science</p>
 </div>
 
 ## Hobbies
-* Focus on open source projects like tmux, zsh, emacs, qemacs, KDE4, nodejs etc 
-* Linux hobbyist
-
+* focus on open source projects like tmux, zsh, emacs, qemacs, KDE4 etc 
+* linux hobbyist
+* mac fun
