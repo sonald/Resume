@@ -2,7 +2,10 @@
 	<h1><big>S</big>ian <big>C</big>ao</h1>
 	<h3>yinshuiboy (at) gmail (dot) com</h3>
 	<h3>tel: 15801412878</h3>
-	<h3>homepage: http://sonald.me</h3>
+	<h3>	
+	    <a href="http://sonald.me">homepage</a>
+    	<a href="http://github.com/sonald">github</a>
+    </h3>	
 </div>
 
 ## Experience
