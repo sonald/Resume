@@ -1,8 +1,9 @@
 <div id="header">
 	<h1><big>S</big>ian <big>C</big>ao</h1>
-	<h3>yinshuiboy (at) gmail (dot) com</h3>
+	<h3>email: yinshuiboy (at) gmail (dot) com</h3>
 	<h3>tel: 15801412878</h3>
 	<h3>	
+	    <span>links: &nbsp;</span>
 	    <a href="http://sonald.me">homepage</a>
     	<a href="http://github.com/sonald">github</a>
     </h3>	
@@ -30,6 +31,7 @@
 	<ol dir>
         <li>Nodejs</li>
 		<li>Python</li>
+    	<li>C</li>		
     	<li>C++</li>
 		<li>Javascript</li>
 		<li>Objective C</li>			
@@ -98,3 +100,4 @@
 * focus on open source projects like tmux, zsh, emacs, qemacs, KDE4 etc 
 * linux hobbyist
 * mac fun
+* fond of programming languages, familiar with lisp, python, c, js, go, haskell
