@@ -15,14 +15,14 @@
 
 * Red Flag Desktop 6, 7, and 8 system development and maintainment
 * System management tools for Desktop, i.e display settings, power management, network management
-* Participate in the KDE development, got kde svn/git account, have commits into kdelibs, kdebase and phonon projects.
+* Participated in the KDE development, won kde official git account and had commits into kdelibs, kdebase and phonon projects.
 * Bug fixes for KDE4 components, Plasma, 
-* research project for improving konqueror by providing more plugins (partially finished)
-* embedding Gecko(firefox rendering engine) into konqueror (partially finished)
-* build project management website for internal usage
-* Designing and building simple realtime web app framework for desktop system
+* Research project for improving konqueror by providing more plugins (partially finished)
+* Embedding Gecko(firefox rendering engine) into konqueror (partially finished)
+* Built project management website for internal usage
+* Designed and built a simple realtime web app framework for desktop system
 * Nodejs powered installer for Qomo and Linux Desktop
-* web-based software center backend
+* Web-based software center backend
 
 ## Personal Projects
 
@@ -60,13 +60,13 @@
         <span class="date">2011</span>
     </h3>
     <p>prototyping implementation of micro emacs clone. written in <span
-    class="language">C</span>. not finished.</p>
+    class="language">C</span>. </p>
 
 	<h3> 
         Loopy
         <span class="date">2011</span>
     </h3>
-    <p>cloned from original author, and add some missing features that I
+    <p>cloned from original author, and added some missing features that I
     needed.</p>
 	
 	<h3> 
@@ -74,7 +74,7 @@
         <span class="date">2009</span>
     </h3>
     <p>my own OS venture based on skelix concept. I'm planning to rewrite the
-    kernel next year.</p>
+    kernel next time.</p>
 
 </div>
 
@@ -95,12 +95,12 @@
     <li> 2006.8 - 2006.9  MIS for TV station of Wuhan University  </li>
     </ul>
 
-    major language were Delphi, C++, and familiar with Oracle DB.
+    major languages were Delphi, C++, and familiared with Oracle DB.
 	
     <h3> 
         Wuhan University, Computerter Science and Technology, <small>2001 - 2005</small>
     </h3>
-	<p>Bachelor in Computer Science</p>
+	<p>B.S. in Computer Science</p>
 </div>
 
 ## Hobbies
