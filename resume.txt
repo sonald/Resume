@@ -14,15 +14,18 @@
 ### Red Flag Linux Co. Ltd, <small>Senior Software Developer, Junior Manager, 2007 - Present</small>
 
 * Red Flag Desktop 6, 7, and 8 system development and maintainment
-* System management tools for Desktop, i.e display settings, power management, network management
-* Participated in the KDE development, won kde official git account and had commits into kdelibs, kdebase and phonon projects.
-* Bug fixes for KDE4 components, Plasma, 
+* Developed System management tools for Desktop, i.e display settings, power management, network management
+* Participated in the KDE development 
+    1. won kde official git account and had commits into kdelibs, kdebase and phonon projects.
+    1. Bug fixes for KDE4 components
+
 * Research project for improving konqueror by providing more plugins (partially finished)
-* Embedding Gecko(firefox rendering engine) into konqueror (partially finished)
+* Embedding Gecko into konqueror (partially finished)
 * Built project management website for internal usage
-* Designed and built a simple realtime web app framework for desktop system
-* Nodejs powered installer for Qomo and Linux Desktop
-* Web-based software center backend
+* Designed and built a simple realtime web app framework for desktop system based on Nodejs
+* Installer for Qomo and Linux Desktop powered by my web app framework
+* Web-based software center backend (browser plugin)
+* Did some experiments with phonegap and android development
 
 ## Personal Projects
 
@@ -35,6 +38,7 @@
     	<li>C++</li>
 		<li>Javascript</li>
 		<li>Objective C</li>			
+		<li>Scheme</li>					
 	</ol>
 	
 	<h3>development env</h3>
@@ -48,6 +52,12 @@
 </div>
 
 <div id="projects">
+    <h3> 
+        igrep 
+        <span class="date">Present</span>
+    </h3>
+    <p>a simple regexp engine (with only minimal functions now) based on
+     thompson NFA. written in <span class="language">C</span></p>
 	<h3>
         iShell 
         <span class="date">Present</span>
@@ -104,7 +114,7 @@
 </div>
 
 ## Hobbies
-* focus on open source projects like tmux, zsh, emacs, qemacs, KDE4 etc 
-* linux hobbyist
-* mac fun
-* fond of programming languages, familiar with lisp, python, c, js, go, haskell
+* Focuses on open source projects like tmux, zsh, emacs, qemacs, KDE4 etc 
+* Linux hobbyist
+* Mac fun
+* Fond of programming languages, familiar with scheme, python, c, c++, javascript, go
