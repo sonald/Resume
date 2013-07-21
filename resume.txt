@@ -1,13 +1,9 @@
-<div id="header">
-	<h1><big>S</big>ian <big>C</big>ao</h1>
-	<h3>email: yinshuiboy (at) gmail (dot) com</h3>
-	<h3>tel: 15801412878</h3>
-	<h3>	
-	    <span>links: &nbsp;</span>
-	    <a href="http://sonald.me">homepage</a>
-    	<a href="http://github.com/sonald">github</a>
-    </h3>	
-</div>
+# Sian Cao
+* [yinshuiboy@gmail.com](mailto)
+* tel: 15801412878
+* [http://sonald.me][]
+* [http://github.com/sonald][]
+    	
 
 ## Experience
 
