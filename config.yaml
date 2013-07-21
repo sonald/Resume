@@ -8,7 +8,8 @@ user_config:
   # The file you want to parse to be your resume
   # Must be a format supported by github-markup
   file: 'resume.md'
-
+  file-zh: 'resume-zh.md'
+  
   # A picture of you. Should be a complete url
   pic: 'http://www.gravatar.com/avatar/5965dd93d497bef6e9a0b4029b0e023d'
 

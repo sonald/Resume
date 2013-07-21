@@ -34,6 +34,23 @@ get '/index.html' do
   }
 end
 
+get '/index-zh.html' do
+  rfile = settings.config['file-zh']
+  name  = settings.config['name']
+  title = "#{name}'s Resume"
+
+  template = Tilt.new(rfile)
+  resume = template.render
+
+  erb :index, :locals => {
+    :title => title,
+    :resume => resume,
+    :author => name,
+    :key => settings.config['gkey'],
+    :filename => rfile
+  }
+end
+
 # We do this for our static site rendering.
 get '/' do
   redirect '/index.html'

@@ -1,13 +1,8 @@
-<div id="header">
-	<h1><big>S</big>ian <big>C</big>ao</h1>
-	<h3>email: yinshuiboy (at) gmail (dot) com</h3>
-	<h3>tel: 15801412878</h3>
-	<h3>	
-	    <span>links: &nbsp;</span>
-	    <a href="http://sonald.me">homepage</a>
-    	<a href="http://github.com/sonald">github</a>
-    </h3>	
-</div>
+# Sian Cao
+* [yinshuiboy@gmail.com](mailto)
+* tel: 15801412878
+* [http://sonald.me]()
+* [http://github.com/sonald]()
 
 ## Experience
 
@@ -27,29 +22,10 @@
 * Web-based software center backend (browser plugin)
 * Did some experiments with phonegap and android development
 
-## Personal Projects
+## Proficiency
+Most of code I have written has been in C, C++, Javascript and Objective C. I'm familiar with scheme and python, and have learnt about Go, Ruby and Lua. Six years of Linux development experiences made me familiar with a lot of command line tools such as zsh, bash, tmux, git, awk，grep，vim etc. My major editor is Emacs. I had several years experience with Qt。
 
-<div id="skills" class="sidebar clearfix">
-	<h3>Languages(frameworks)</h3>
-	<ol dir>
-        <li>Nodejs</li>
-		<li>Python</li>
-    	<li>C</li>		
-    	<li>C++</li>
-		<li>Javascript</li>
-		<li>Objective C</li>			
-		<li>Scheme</li>					
-	</ol>
-	
-	<h3>development env</h3>
-	<ul dir>
-		<li>git</li>
-		<li>zsh</li>
-		<li>tmux</li>
-		<li>mosh</li>
-		<li>vim/emacs</li>
-	</ul>
-</div>
+## Personal Projects
 
 <div id="projects">
     <h3> 
@@ -83,7 +59,7 @@
         Yos
         <span class="date">2009</span>
     </h3>
-    <p>my own OS venture based on skelix concept. I'm planning to rewrite the
+    <p>my own OS venture based on skelix concept and linux 0.11. I'm planning to rewrite the
     kernel next time.</p>
 
 </div>
@@ -118,3 +94,6 @@
 * Linux hobbyist
 * Mac fun
 * Fond of programming languages, familiar with scheme, python, c, c++, javascript, go
+* movies and American drama
+
+<small class="download"><a href="index-zh.html">Chinese Version</a></small>

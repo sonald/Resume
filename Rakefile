@@ -57,6 +57,7 @@ task :github do
 
   files = [
     'index.html',
+    'index-zh.html',
     'resume.txt',
   ]
 
