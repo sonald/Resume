@@ -1,8 +1,8 @@
 # Sian Cao
 * [yinshuiboy@gmail.com](mailto)
 * tel: 15801412878
-* [http://sonald.me][]
-* [http://github.com/sonald][]
+* [http://sonald.me]()
+* [http://github.com/sonald]()
 
 ## Experience
 
@@ -95,3 +95,5 @@ Most of code I have written has been in C, C++, Javascript and Objective C. I'm 
 * Mac fun
 * Fond of programming languages, familiar with scheme, python, c, c++, javascript, go
 * movies and American drama
+
+<small class="download"><a href="index-zh.html">Chinese Version</a></small>
