@@ -5,8 +5,11 @@
 * [http://github.com/sonald]()
 
 ## Experience
+### iSoft Infrastructure software Co. Ltd, <small>Senior Software Developer, 2013 - Present</small>
+* Linux hacker
+* Linux Desktop Environment hacking
 
-### Red Flag Linux Co. Ltd, <small>Senior Software Developer, Junior Manager, 2007 - Present</small>
+### Red Flag Linux Co. Ltd, <small>Senior Software Developer, Junior Manager, 2007 - 2013</small>
 
 * Red Flag Desktop 6, 7, and 8 system development and maintainment
 * Developed System management tools for Desktop, i.e display settings, power management, network management
@@ -28,6 +31,11 @@ Most of code I have written has been in C, C++, Javascript and Objective C. I'm 
 ## Personal Projects
 
 <div id="projects">
+    <h3>sos 
+        <span class="date">Present</span>
+    </h3>
+    <p>my new operating system venture</p>
+
     <h3> 
         igrep 
         <span class="date">Present</span>
@@ -90,9 +98,9 @@ Most of code I have written has been in C, C++, Javascript and Objective C. I'm 
 </div>
 
 ## Hobbies
-* Focuses on open source projects like tmux, zsh, emacs, qemacs, KDE4 etc 
-* Linux hobbyist
-* Mac fun
+* Focuses on open source projects like tmux, zsh, emacs, qemacs, KDE4, Gnome etc 
+* Linux hacker
+* Mac hobbyist
 * Fond of programming languages, familiar with scheme, python, c, c++, javascript, go
 * movies and American drama
 

@@ -5,6 +5,9 @@
 * [http://github.com/sonald]()
     	
 ## 经历
+### 普华基础软件股份有限公司 <small>软件开发工程师</small>
+* Linux hacker
+* Linux桌面hacker
 
 ### 中科红旗软件技术有限公司 <small>软件开发工程师，初级经理</small>
 
@@ -30,6 +33,11 @@
 ## 个人项目
 
 <div id="projects">
+    <h3>sos 
+        <span class="date">Present</span>
+    </h3>
+    <p>my new operating system venture</p>
+
     <h3> 
         igrep 
     </h3>
@@ -80,7 +88,7 @@ B.S. in Computer Science　　
 
 ## 兴趣爱好
 * 主要关注一些开源软件和技术。比较感兴趣和使用很多的有tmux、zsh、emacs、llvm等。
-* linux爱好者。
+* linux hacker
 * Mac OS X爱好者。
 * 对编程语言及语言理论有浓厚兴趣，曾不同程度涉略haskell、lisp、ruby、python、go、lua、java等。
 * 美剧和电影。
