@@ -26,7 +26,7 @@
 * Did some experiments with phonegap and android development
 
 ## Proficiency
-Most of code I have written has been in C, C++, Javascript and Objective C. I'm familiar with scheme and python, and have learnt about Go, Ruby and Lua. Six years of Linux development experiences made me familiar with a lot of command line tools such as zsh, bash, tmux, git, awk，grep，vim etc. My major editor is Emacs. I had several years experience with Qt。
+Most of the codes I have written has been in C, C++, Javascript and Objective C. I'm familiar with scheme and python, and have learnt about Go, Ruby and Lua. Six years of Linux development experiences made me familiar with a lot of command line tools such as zsh, bash, tmux, git, awk，grep，vim etc. My major editor was Emacs and now is vim. I had several years experience with Qt and Gtk+。
 
 ## Personal Projects
 
@@ -35,6 +35,11 @@ Most of code I have written has been in C, C++, Javascript and Objective C. I'm 
         <span class="date">Present</span>
     </h3>
     <p>my new operating system venture</p>
+
+    <h3>prometheus 
+        <span class="date">Present</span>
+    </h3>
+    <p>a simple opengl es based powerup animation app for linux</p>
 
     <h3> 
         igrep 
