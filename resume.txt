@@ -8,6 +8,11 @@
 ### iSoft Infrastructure software Co. Ltd, <small>Senior Software Developer, 2013 - Present</small>
 * Linux hacker
 * Linux Desktop Environment hacking
+	- window manager 
+	- panel & applets
+	- app launcher
+	- app runtime environment
+	- opengl es based power on animation
 
 ### Red Flag Linux Co. Ltd, <small>Senior Software Developer, Junior Manager, 2007 - 2013</small>
 
@@ -35,6 +40,11 @@ Most of the codes I have written has been in C, C++, Javascript and Objective C.
         <span class="date">Present</span>
     </h3>
     <p>my new operating system venture</p>
+
+    <h3>cjs 
+        <span class="date">Present</span>
+    </h3>
+    <p>my ECMAScript 262 compiler written in c++ 11, just started yet</p>
 
     <h3>prometheus 
         <span class="date">Present</span>
