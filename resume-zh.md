@@ -5,9 +5,14 @@
 * [http://github.com/sonald]()
     	
 ## 经历
+### 深之度科技有限公司 <small>软件开发工程师</small>
+* Linux hacker
+* 开发metacity的分支，使之于3D版本外观一致，并能运行在低端平台上
+* 维护2D、3D窗口管理器
+
 ### 普华基础软件股份有限公司 <small>软件开发工程师</small>
 * Linux hacker
-* Linux桌面hacker
+* Linux桌面hacker：独立开发桌面环境相关组件
 
 ### 中科红旗软件技术有限公司 <small>软件开发工程师，初级经理</small>
 
@@ -39,6 +44,11 @@
     <p>my new operating system venture</p>
 
     <h3> 
+        coro 
+    </h3>
+    <p>用C实现的一个简单的协程库
+
+    <h3> 
         igrep 
     </h3>
     <p>用C实现的一个简单快速的正则引擎（目前最简功能）。基于thompson自动机。
@@ -59,11 +69,6 @@
     </h3>
     <p>基于原作者的版本并添加了许多新的功能。
 	
-	<h3> 
-        Yos
-    </h3>
-    <p>独立开发的一个简单的保护模式操作系统内核，有完整的多进程支持、有内核idle进程保证cpu的合理使用，支持内核页分配、grub引导、简单的vga驱动等。思想参考skelix意见linux 0.11版本。
-
 </div>
 
 ## 教育
@@ -90,5 +95,5 @@ B.S. in Computer Science　　
 * 主要关注一些开源软件和技术。比较感兴趣和使用很多的有tmux、zsh、emacs、llvm等。
 * linux hacker
 * Mac OS X爱好者。
-* 对编程语言及语言理论有浓厚兴趣，曾不同程度涉略haskell、lisp、ruby、python、go、lua、java等。
+* 对编程语言及语言理论有浓厚兴趣，曾不同程度涉略haskell、scheme、ruby、python、go、lua、java等。
 * 美剧和电影。

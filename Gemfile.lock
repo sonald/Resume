@@ -1,8 +1,8 @@
 GEM
-  remote: http://ruby.taobao.org/
+  remote: https://rubygems.org/
   specs:
     daemons (1.1.9)
-    eventmachine (1.0.3)
+    eventmachine (1.0.9.1)
     git (1.2.5)
     logger (1.2.8)
     rack (1.5.2)
@@ -37,3 +37,6 @@ DEPENDENCIES
   sinatra
   thin
   tilt
+
+BUNDLED WITH
+   1.12.4

@@ -5,7 +5,12 @@
 * [http://github.com/sonald]()
 
 ## Experience
-### iSoft Infrastructure software Co. Ltd, <small>Senior Software Developer, 2013 - Present</small>
+### Deepin Technology Co. Ltd, <small>Software Developer, 2015 - Present</small>
+* Linux hacker
+* fork metacity for the eye-candies and low-power platforms
+* Maintain 2D/3D window managers
+
+### iSoft Infrastructure software Co. Ltd, <small>Senior Software Developer, 2013 - 2015</small>
 * Linux hacker
 * Linux Desktop Environment hacking
 
@@ -41,6 +46,9 @@ Most of the codes I have written has been in C, C++, Javascript and Objective C.
     </h3>
     <p>a simple opengl es based powerup animation app for linux</p>
 
+    <h3>coro</h3>
+    <p>a naive coroutine lib implemented with c</p>
+
     <h3> 
         igrep 
         <span class="date">Present</span>
@@ -67,13 +75,6 @@ Most of the codes I have written has been in C, C++, Javascript and Objective C.
     </h3>
     <p>cloned from original author, and added some missing features that I
     needed.</p>
-	
-	<h3> 
-        Yos
-        <span class="date">2009</span>
-    </h3>
-    <p>my own OS venture based on skelix concept and linux 0.11. I'm planning to rewrite the
-    kernel next time.</p>
 
 </div>
 
